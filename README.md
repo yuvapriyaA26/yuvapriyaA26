@@ -24,18 +24,13 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuvapriyaA26&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: yuvapriyaa8@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/a-yuva-priya-1a9a1a358
 
 ---
 
